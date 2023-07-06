@@ -1,0 +1,5 @@
+com\study\entity\OrderItem.class
+com\study\controller\OrderController.class
+com\study\entity\Order.class
+com\study\OnetomanyBidirectionalApplication.class
+com\study\repo\OrderRepository.class
