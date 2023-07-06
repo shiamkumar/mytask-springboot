@@ -1,0 +1,9 @@
+com\tech\MultipleDatasourceApplication.class
+com\tech\secondary\repo\ManagerRepository.class
+com\tech\primary\entity\Employee.class
+com\tech\primary\repo\EmployeeRepository.class
+com\tech\secondary\config\SecondaryDatabaseConfig.class
+com\tech\primary\controller\EmployeeController.class
+com\tech\secondary\controller\ManagerController.class
+com\tech\primary\config\PrimaryDatabaseConfig.class
+com\tech\secondary\entity\Manager.class

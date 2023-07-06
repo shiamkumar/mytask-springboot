@@ -1,0 +1,16 @@
+
+http://localhost:9090/swagger-ui/index.html
+
+
+Primary Database - Employee
+===========================
+http://localhost:9090/employee/getAll
+
+http://localhost:9090/employee/add
+
+Secondary Database - manager
+============================
+http://localhost:9090/manager/getAll
+
+http://localhost:9090/manager/add
+

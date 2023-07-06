@@ -1,0 +1,10 @@
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\primary\config\PrimaryDatabaseConfig.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\primary\controller\EmployeeController.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\secondary\entity\Manager.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\swagger\config\SwaggerConfig.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\primary\entity\Employee.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\primary\repo\EmployeeRepository.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\secondary\controller\ManagerController.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\secondary\repo\ManagerRepository.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\MultipleDatasourceApplication.java
+C:\Users\shiam\workspace\multiple-datasource\src\main\java\com\tech\secondary\config\SecondaryDatabaseConfig.java
