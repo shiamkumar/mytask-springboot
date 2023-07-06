@@ -1,0 +1,6 @@
+com\tech\dto\BulkEmployeesRequestDTO.class
+com\tech\repository\BulkEmployeeRepository.class
+com\tech\BulkInsertServiceApplication.class
+com\tech\entity\Employee.class
+com\tech\service\EmployeeService.class
+com\tech\controller\EmployeeController.class
