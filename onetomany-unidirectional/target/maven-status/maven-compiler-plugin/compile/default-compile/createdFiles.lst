@@ -1,0 +1,8 @@
+com\study\repo\CustomerRepo.class
+com\study\request\ItemRequest.class
+com\study\entity\Item.class
+com\study\request\CustomerRequest.class
+com\study\entity\Customer.class
+com\study\controller\CustomerController.class
+com\study\repo\ItemRepo.class
+com\study\OnetomanyUnidirectionalApplication.class
