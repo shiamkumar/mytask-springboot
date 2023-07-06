@@ -1,0 +1,49 @@
+Sing-Up
+=======
+Request_url: http://localhost:9090/api/auth/signup
+Request_method: POST
+Request_Payload
+===============
+{
+    "username":"super",
+    "email":"super@gmail.com",
+    "password":"super@123"
+}
+
+Response_Payload
+=================
+{
+    "message": "user registered successfully!"
+}
+
+Sing-In
+=======
+Request_url: http://localhost:9090/api/auth/signin
+Request_method: POST
+Request_Payload
+===============
+{
+    "username":"admin",
+    "password":"admin@123"
+}
+
+Response_Payload
+=================
+{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTY4NzQ0NDMwOCwiZXhwIjoxNjg3NDYyMzA4fQ.AGLNAfmZCEz8MjyTF_4MNcHLhsv1cBcEU-tVrxI4N6NLxZQQ4d3r1g5_RITZ4fPE3iuth5ZEO3GHzCJLPNLW3w",
+    "type": "Bearer",
+    "id": 3,
+    "username": "admin",
+    "email": "admin@gmail.com"
+}
+
+UserController Verification with Token
+=======================================
+Request_url: http://localhost:9090/api/test/greeting
+Request_method: GET
+
+Headers
+=======
+key: Authorization
+value: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTY4NzQ0NDg5MCwiZXhwIjoxNjg3NDYyODkwfQ.odXXhK2Hs6m4ZIoURKg4i2ufHNKpzr_sG34c7NClkYAC4kDpjXtPxDJbWljcMLeh7Gcywkkq1KGbPuioD-0EBw
+ 
