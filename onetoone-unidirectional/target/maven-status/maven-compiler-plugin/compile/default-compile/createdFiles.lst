@@ -1,0 +1,5 @@
+com\study\repo\CustomerRepo.class
+com\study\UnidirectionalOnetooneApplication.class
+com\study\entity\Item.class
+com\study\repo\ItemRepo.class
+com\study\entity\Customer.class

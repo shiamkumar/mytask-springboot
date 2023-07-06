@@ -1,0 +1,22 @@
+
+request url: http://localhost:8081/api/v1/customer/save
+request method; POST
+
+request payload
+==========
+{
+  "name" : "HP Notebook",
+  "item" : {
+    "name" : "HP"
+  }
+}
+response payload
+============
+{
+    "id": 1,
+    "name": "HP Notebook",
+    "item": {
+        "id": 1,
+        "name": "HP"
+    }
+}
