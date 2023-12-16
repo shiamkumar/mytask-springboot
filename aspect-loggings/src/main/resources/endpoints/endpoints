@@ -1,0 +1,10 @@
+
+Fetch All => http://localhost:9000/api/employees
+
+Fetch By Id => http://localhost:9000/api/employee/3
+
+Create Employee => http://localhost:9000/api/employee
+
+Update Employee => http://localhost:9000/api/employee/3
+
+Delete Employee => http://localhost:9000/api/employee/3
